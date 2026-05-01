@@ -10,7 +10,9 @@ A Flutter application that allows users to play and record videos.
 ## 📸 Screenshots
 ![Home](assets/image/homeScreen.png)
 ![Player](assets/image/Welcome.png)
-![Player](assets/image/Loading....png)
+![Loading](assets/image/Loading....png)
+![Player](assets/image/record Video.png)
+
 
 
 ## 🛠️ Technologies Used
